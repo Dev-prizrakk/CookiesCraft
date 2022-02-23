@@ -8,6 +8,7 @@ https://discord.gg/Ja8nzUPb6s - Discord Сервер
 http://paste.cookiescraft.su/ - PasteBin (являеться открытым источником `Ссылку где брал я забыл :(`
 
 О команде
+
 `Основатели`
 
 prizrakk#0001
