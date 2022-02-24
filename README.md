@@ -5,7 +5,7 @@ Cookies Craft - проект созданый не ради прибыли а р
 https://cookiescraft.su/ - Основной сайт
 https://forum.cookiescraft.su/ - Форум
 https://discord.gg/Ja8nzUPb6s - Discord Сервер
-http://paste.cookiescraft.su/ - PasteBin (являеться открытым источником `Ссылку где брал я забыл :(`
+http://paste.cookiescraft.su/ - PasteBin (являеться открытым источником `Ссылку где брал я забыл :( )`
 
 О команде
 
